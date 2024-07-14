@@ -4,7 +4,7 @@ My notes reading "[Functional Kotlin][book]" book by [Marcin Moskala][marcin]
 
 ## TOC
 
-* [ ] Introduction
+* [x] Introduction
 * [ ] Introduction to functional programming with Kotlin
 * [ ] Function types
 * [ ] Anonymous functions
