@@ -6,7 +6,7 @@ My notes reading "[Functional Kotlin][book]" book by [Marcin Moskala][marcin]
 
 * [x] Introduction
 * [x] Introduction to functional programming with Kotlin
-* [ ] Function types
+* [x] [Function types]
 * [ ] Anonymous functions
 * [ ] Lambda expressions
 * [ ] Function references
