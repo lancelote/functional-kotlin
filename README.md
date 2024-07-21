@@ -8,7 +8,7 @@ My notes reading "[Functional Kotlin][book]" book by [Marcin Moskala][marcin]
 * [x] Introduction to functional programming with Kotlin
 * [x] [Function types](src/main/kotlin/ch03)
 * [x] Anonymous functions
-* [ ] Lambda expressions
+* [ ] [Lambda expressions](src/main/kotlin/ch05)
 * [ ] Function references
 * [ ] SAM Interface support in Kotlin
 * [ ] Inline functions
