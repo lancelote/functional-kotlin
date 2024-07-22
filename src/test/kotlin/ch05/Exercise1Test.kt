@@ -2,9 +2,9 @@ package ch05
 
 import kotlin.reflect.KClass
 import kotlin.reflect.typeOf
-import kotlin.test.Test
 import kotlin.test.assertNotNull
 import kotlin.test.assertEquals
+import kotlin.test.Test
 
 class FunctionalTest {
 
