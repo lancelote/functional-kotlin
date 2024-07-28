@@ -10,7 +10,7 @@ My notes reading "[Functional Kotlin][book]" book by [Marcin Moskala][marcin]
 * [x] Anonymous functions
 * [x] [Lambda expressions](src/main/kotlin/ch05)
 * [x] [Function references](src/main/kotlin/ch06)
-* [ ] SAM Interface support in Kotlin
+* [x] SAM Interface support in Kotlin
 * [ ] Inline functions
 * [ ] Collection processing
 * [ ] Sequences
