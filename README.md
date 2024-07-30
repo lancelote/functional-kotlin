@@ -11,7 +11,7 @@ My notes reading "[Functional Kotlin][book]" book by [Marcin Moskala][marcin]
 * [x] [Lambda expressions](src/main/kotlin/ch05)
 * [x] [Function references](src/main/kotlin/ch06)
 * [x] SAM Interface support in Kotlin
-* [ ] [Inline functions](src/main/kotlin/ch08)
+* [x] [Inline functions](src/main/kotlin/ch08)
 * [ ] Collection processing
 * [ ] Sequences
 * [ ] Type Safe DSL Builders
