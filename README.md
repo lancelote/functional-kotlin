@@ -12,7 +12,7 @@ My notes reading "[Functional Kotlin][book]" book by [Marcin Moskala][marcin]
 * [x] [Function references](src/main/kotlin/ch06)
 * [x] SAM Interface support in Kotlin
 * [x] [Inline functions](src/main/kotlin/ch08)
-* [ ] Collection processing
+* [ ] [Collection processing](src/main/kotlin/ch09)
 * [ ] Sequences
 * [ ] Type Safe DSL Builders
 * [ ] Scope functions
