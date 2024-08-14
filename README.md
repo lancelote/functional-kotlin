@@ -17,7 +17,7 @@ My notes reading "[Functional Kotlin][book]" book by [Marcin Moskala][marcin]
 * [x] [Type Safe DSL Builders](src/main/kotlin/ch11)
 * [x] [Scope functions](src/main/kotlin/ch12)
 * [x] [Context receivers](src/main/kotlin/ch13)
-* [ ] A birds-eye view of Arrow
+* [x] A birds-eye view of Arrow
 
 [book]: https://www.goodreads.com/book/show/77266339-functional-kotlin
 [marcin]: https://www.linkedin.com/in/marcin-moskala/
